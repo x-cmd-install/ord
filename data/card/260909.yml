@@ -7,7 +7,7 @@ about:
   latestVersion: "0.29.0"
   latestRelease: "0.29.0"
   latestPrerelease: "0.16.0-rc1"
-  collectedAt: 2026-09-09T06:26:39Z
+  collectedAt: 2026-09-09T20:44:43Z
 timeline:
   created: 2021-12-12
   lastCommit: 2026-08-20
@@ -17,7 +17,7 @@ timeline:
 popularity:
   star: 3967
   watcher: 132
-  fork: 1480
+  fork: 1481
   release: 70
   contributor: 144
   pullRequest: 2106
@@ -41,7 +41,7 @@ recent:
     openPR: 0
     closedIssue: 1
     openIssue: 1
-    commit: 1
+    commit: 0
   last60d:
     since: 2026-07-11
     release: 2
@@ -49,7 +49,7 @@ recent:
     openPR: 0
     closedIssue: 2
     openIssue: 3
-    commit: 10
+    commit: 0
   last90d:
     since: 2026-06-11
     release: 2
@@ -57,7 +57,7 @@ recent:
     openPR: 2
     closedIssue: 2
     openIssue: 3
-    commit: 14
+    commit: 0
   last180d:
     since: 2026-03-13
     release: 3
@@ -65,7 +65,7 @@ recent:
     openPR: 11
     closedIssue: 2
     openIssue: 5
-    commit: 20
+    commit: 0
   last360d:
     since: 2025-09-14
     release: 10
@@ -73,7 +73,7 @@ recent:
     openPR: 19
     closedIssue: 15
     openIssue: 9
-    commit: 71
+    commit: 0
   last720d:
     since: 2024-09-19
     release: 21
@@ -91,7 +91,7 @@ total:
   commit: 1659
 ---
 path: /home/runner/.x-repo/github.com/ordinals/ord
-collectedAt: 2026-09-09T06:27:21Z
+collectedAt: 2026-09-09T20:45:24Z
 loc:
   Rust:
     code: 64488
