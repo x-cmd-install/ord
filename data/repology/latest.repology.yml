@@ -1,0 +1,93 @@
+- repo: homebrew
+  srcname: ord
+  visiblename: ord
+  version: 0.29.0
+  origversion: null
+  status: outdated
+  summary: Index, block explorer, and command-line wallet
+- repo: homebrew
+  srcname: ord
+  visiblename: ord
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Index, block explorer, and command-line wallet
+- repo: aur
+  srcname: ord
+  binname: ord
+  visiblename: ord
+  version: 2.2.0
+  origversion: 2.2.0-1
+  status: newest
+  summary: Process text through customizable LLM templates.
+  maintainers:
+    - eddiebrunstedt@aur
+  licenses:
+    - MIT
+- repo: aur
+  srcname: ord-git
+  binname: ord-git
+  visiblename: ord-git
+  version: 0.15.0.r31.416b2867
+  origversion: 0.15.0.r31.416b2867-1
+  status: rolling
+  summary: An index, block explorer, and command-line wallet for Ordinals
+  maintainers:
+    - nojo@aur
+  licenses:
+    - CC0-1.0
+- repo: nix_stable_24_11
+  srcname: ord
+  visiblename: ord
+  version: 0.21.2
+  origversion: null
+  status: outdated
+  summary: Index, block explorer, and command-line wallet for Ordinals
+  maintainers:
+    - xrelkd@github
+  licenses:
+    - CC0-1.0
+- repo: nix_stable_25_05
+  srcname: ord
+  visiblename: ord
+  version: 0.23.1
+  origversion: null
+  status: outdated
+  summary: Index, block explorer, and command-line wallet for Ordinals
+  maintainers:
+    - xrelkd@github
+  licenses:
+    - CC0-1.0
+- repo: nix_stable_25_11
+  srcname: ord
+  visiblename: ord
+  version: 0.24.2
+  origversion: null
+  status: outdated
+  summary: Index, block explorer, and command-line wallet for Ordinals
+  maintainers:
+    - xrelkd@github
+  licenses:
+    - CC0-1.0
+- repo: nix_stable_26_05
+  srcname: ord
+  visiblename: ord
+  version: 0.27.1
+  origversion: null
+  status: outdated
+  summary: Index, block explorer, and command-line wallet for Ordinals
+  maintainers:
+    - xrelkd@github
+  licenses:
+    - CC0-1.0
+- repo: nix_unstable
+  srcname: ord
+  visiblename: ord
+  version: 0.29.0
+  origversion: null
+  status: outdated
+  summary: Index, block explorer, and command-line wallet for Ordinals
+  maintainers:
+    - xrelkd@github
+  licenses:
+    - CC0-1.0
