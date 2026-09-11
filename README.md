@@ -38,7 +38,7 @@ Total: **67,373** lines of code across **292** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 3,967 · **Forks**: 1,480 · **Open issues**: 2,149 · **Contributors**: 144
+- **Stars**: 3,967 · **Forks**: 1,479 · **Open issues**: 2,149 · **Contributors**: 144
 
 ## Totals (cumulative)
 
@@ -82,4 +82,4 @@ Install metadata for ord lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T06:24:49Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T18:26:26Z._
