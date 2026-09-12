@@ -48,12 +48,12 @@ Total: **67,373** lines of code across **292** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 0 | 1 | 0 | 1 | 1 | 1 |
-| last60d | 2026-07-13 | 2 | 9 | 0 | 2 | 3 | 10 |
-| 90d | 2026-06-13 | 2 | 13 | 2 | 2 | 3 | 14 |
-| last180d | 2026-03-15 | 3 | 20 | 11 | 2 | 5 | 20 |
-| 360d | 2025-09-16 | 10 | 68 | 19 | 15 | 9 | 71 |
-| last720d | 2024-09-21 | 21 | 239 | 19 | 105 | 80 | 245 |
+| 30d | 2026-08-13 | 0 | 1 | 0 | 1 | 1 | 1 |
+| last60d | 2026-07-14 | 2 | 9 | 0 | 2 | 3 | 10 |
+| 90d | 2026-06-14 | 2 | 13 | 2 | 2 | 3 | 14 |
+| last180d | 2026-03-16 | 3 | 20 | 11 | 2 | 5 | 20 |
+| 360d | 2025-09-17 | 10 | 68 | 19 | 15 | 9 | 71 |
+| last720d | 2024-09-22 | 21 | 239 | 19 | 105 | 80 | 243 |
 
 ## Release assets
 
@@ -82,4 +82,4 @@ Install metadata for ord lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T18:26:26Z._
+_Snapshot: `data/card/260912.yml` · 2026-09-12T06:10:26Z._
