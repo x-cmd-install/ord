@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 11635403,
       "digest": "sha256:f65c758d71549954470aa7fe23b197478688fb4f910e84c2956cf9144078a94e",
-      "download_count": 566,
+      "download_count": 598,
       "created_at": "2026-08-05T16:00:11Z",
       "updated_at": "2026-08-05T16:00:12Z",
       "browser_download_url": "https://github.com/ordinals/ord/releases/download/0.29.0/ord-0.29.0-x86_64-unknown-linux-gnu.tar.gz"
