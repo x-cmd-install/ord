@@ -14,11 +14,11 @@ x install ord
 
 ## Code insight
 
-Total: **67,413** lines of code across **292** files in the top 5 languages.
+Total: **67,482** lines of code across **292** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 64,528 | 172 | 9,915 | 231 |
+| Rust | 64,581 | 172 | 9,930 | 231 |
 | Html | 994 | 0 | 0 | 39 |
 | Css | 484 | 109 | 133 | 11 |
 | Handlebars | 354 | 16 | 36 | 1 |
@@ -33,27 +33,27 @@ Total: **67,413** lines of code across **292** files in the top 5 languages.
 ## Release
 
 - **Latest**: `0.29.0` (2026-08-05)
-- **Last commit**: 2026-09-12
+- **Last commit**: 2026-09-26
 - **Assets in release**: 4
 
 ## Popularity
 
-- **Stars**: 3,967 · **Forks**: 1,479 · **Open issues**: 2,150 · **Contributors**: 144
+- **Stars**: 3,965 · **Forks**: 1,479 · **Open issues**: 2,149 · **Contributors**: 143
 
 ## Totals (cumulative)
 
-- **Releases**: 70 · **Merged PRs**: 1663 · **Open PRs**: 19 · **Closed issues**: 1743 · **Open issues**: 407 · **Commits**: 1660
+- **Releases**: 70 · **Merged PRs**: 1666 · **Open PRs**: 19 · **Closed issues**: 1743 · **Open issues**: 406 · **Commits**: 1663
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-27 | 0 | 1 | 0 | 1 | 1 | 1 |
-| last60d | 2026-07-28 | 2 | 10 | 0 | 3 | 1 | 10 |
-| 90d | 2026-06-28 | 2 | 10 | 1 | 3 | 3 | 11 |
-| last180d | 2026-03-30 | 2 | 15 | 10 | 3 | 3 | 16 |
-| 360d | 2025-10-01 | 9 | 65 | 19 | 15 | 9 | 68 |
-| last720d | 2024-10-06 | 20 | 231 | 19 | 99 | 79 | 235 |
+| 30d | 2026-08-28 | 0 | 4 | 0 | 1 | 0 | 4 |
+| last60d | 2026-07-29 | 2 | 13 | 0 | 3 | 0 | 10 |
+| 90d | 2026-06-29 | 2 | 13 | 1 | 3 | 2 | 14 |
+| last180d | 2026-03-31 | 2 | 18 | 9 | 3 | 2 | 18 |
+| 360d | 2025-10-02 | 9 | 68 | 19 | 15 | 8 | 71 |
+| last720d | 2024-10-07 | 20 | 234 | 19 | 98 | 78 | 238 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for ord lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260926.yml` · 2026-09-26T06:15:26Z._
+_Snapshot: `data/card/260927.yml` · 2026-09-27T06:39:30Z._
