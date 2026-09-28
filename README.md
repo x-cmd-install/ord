@@ -14,7 +14,7 @@ x install ord
 
 ## Code insight
 
-Total: **67,482** lines of code across **292** files in the top 5 languages.
+Total: **67,483** lines of code across **292** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -33,7 +33,7 @@ Total: **67,482** lines of code across **292** files in the top 5 languages.
 ## Release
 
 - **Latest**: `0.29.0` (2026-08-05)
-- **Last commit**: 2026-09-26
+- **Last commit**: 2026-09-27
 - **Assets in release**: 4
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **67,482** lines of code across **292** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 70 · **Merged PRs**: 1666 · **Open PRs**: 19 · **Closed issues**: 1743 · **Open issues**: 406 · **Commits**: 1663
+- **Releases**: 70 · **Merged PRs**: 1667 · **Open PRs**: 19 · **Closed issues**: 1743 · **Open issues**: 406 · **Commits**: 1664
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-28 | 0 | 4 | 0 | 1 | 0 | 4 |
-| last60d | 2026-07-29 | 2 | 13 | 0 | 3 | 0 | 10 |
-| 90d | 2026-06-29 | 2 | 13 | 1 | 3 | 2 | 14 |
-| last180d | 2026-03-31 | 2 | 18 | 9 | 3 | 2 | 18 |
-| 360d | 2025-10-02 | 9 | 68 | 19 | 15 | 8 | 71 |
-| last720d | 2024-10-07 | 20 | 234 | 19 | 98 | 78 | 238 |
+| 30d | 2026-08-29 | 0 | 5 | 0 | 1 | 0 | 5 |
+| last60d | 2026-07-30 | 2 | 14 | 0 | 2 | 0 | 11 |
+| 90d | 2026-06-30 | 2 | 14 | 0 | 3 | 2 | 15 |
+| last180d | 2026-04-01 | 2 | 19 | 9 | 3 | 2 | 19 |
+| 360d | 2025-10-03 | 9 | 69 | 19 | 15 | 7 | 72 |
+| last720d | 2024-10-08 | 20 | 234 | 19 | 97 | 78 | 239 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for ord lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260927.yml` · 2026-09-27T06:39:30Z._
+_Snapshot: `data/card/260928.yml` · 2026-09-28T06:52:54Z._
