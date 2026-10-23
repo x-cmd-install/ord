@@ -38,7 +38,7 @@ Total: **67,718** lines of code across **293** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 3,969 · **Forks**: 1,482 · **Open issues**: 2,152 · **Contributors**: 143
+- **Stars**: 3,968 · **Forks**: 1,482 · **Open issues**: 2,152 · **Contributors**: 143
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **67,718** lines of code across **293** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 1 | 9 | 0 | 3 | 1 | 9 |
-| last60d | 2026-08-23 | 1 | 10 | 0 | 4 | 1 | 10 |
-| 90d | 2026-07-24 | 3 | 19 | 0 | 6 | 3 | 19 |
-| last180d | 2026-04-25 | 3 | 24 | 7 | 6 | 3 | 24 |
-| 360d | 2025-10-27 | 10 | 69 | 19 | 16 | 7 | 70 |
-| last720d | 2024-11-01 | 18 | 215 | 19 | 88 | 74 | 220 |
+| 30d | 2026-09-23 | 1 | 9 | 0 | 3 | 1 | 9 |
+| last60d | 2026-08-24 | 1 | 10 | 0 | 4 | 1 | 10 |
+| 90d | 2026-07-25 | 3 | 19 | 0 | 6 | 3 | 19 |
+| last180d | 2026-04-26 | 3 | 23 | 7 | 6 | 3 | 24 |
+| 360d | 2025-10-28 | 10 | 69 | 19 | 16 | 7 | 70 |
+| last720d | 2024-11-02 | 18 | 215 | 19 | 88 | 74 | 220 |
 
 ## Release assets
 
@@ -64,6 +64,15 @@ Total: **67,718** lines of code across **293** files in the top 5 languages.
 | [ord-0.29.1-x86_64-pc-windows-msvc.zip](https://github.com/ordinals/ord/releases/download/0.29.1/ord-0.29.1-x86_64-pc-windows-msvc.zip) | 9.4 MiB | `native/win/x64` |
 | [ord-0.29.1-x86_64-unknown-linux-gnu.tar.gz](https://github.com/ordinals/ord/releases/download/0.29.1/ord-0.29.1-x86_64-unknown-linux-gnu.tar.gz) | 11.2 MiB | `native/linux/x64/glibc` |
 
+## Distribution status
+
+Reported by **9** distros on [repology.org](https://repology.org/project/ord). **1** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `HEAD` | 🔄 rolling |
+| Nix unstable | `0.29.0` | ⚠️ outdated |
+
 ## Improve this data
 
 Install metadata for ord lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `ord` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -73,4 +82,4 @@ Install metadata for ord lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T06:06:01Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T06:12:54Z._
