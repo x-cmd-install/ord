@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 10777208,
       "digest": "sha256:cb703759ff988397d8c0ea8a738a66cc3c4edaf9143769a6e2f6d1c38317d95a",
-      "download_count": 33,
+      "download_count": 39,
       "created_at": "2026-10-19T21:08:58Z",
       "updated_at": "2026-10-19T21:08:59Z",
       "browser_download_url": "https://github.com/ordinals/ord/releases/download/0.29.1/ord-0.29.1-aarch64-apple-darwin.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 11310260,
       "digest": "sha256:a1211f257bb19b30299bbc1378558eecc59b02c8bf205d1d79453568c826b1d9",
-      "download_count": 24,
+      "download_count": 28,
       "created_at": "2026-10-19T21:05:42Z",
       "updated_at": "2026-10-19T21:05:43Z",
       "browser_download_url": "https://github.com/ordinals/ord/releases/download/0.29.1/ord-0.29.1-x86_64-apple-darwin.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 9901812,
       "digest": "sha256:57e7498c1f217ee81ac7b16ba1fd09f0f3e52248de7295cfe1fb1aaa8684263b",
-      "download_count": 33,
+      "download_count": 39,
       "created_at": "2026-10-19T21:11:34Z",
       "updated_at": "2026-10-19T21:11:35Z",
       "browser_download_url": "https://github.com/ordinals/ord/releases/download/0.29.1/ord-0.29.1-x86_64-pc-windows-msvc.zip"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 11712088,
       "digest": "sha256:9c25c1cf4ab508c0b80648611827448737a09b5b39c39413b097136b22ba31ce",
-      "download_count": 61,
+      "download_count": 70,
       "created_at": "2026-10-19T21:06:01Z",
       "updated_at": "2026-10-19T21:06:02Z",
       "browser_download_url": "https://github.com/ordinals/ord/releases/download/0.29.1/ord-0.29.1-x86_64-unknown-linux-gnu.tar.gz"
