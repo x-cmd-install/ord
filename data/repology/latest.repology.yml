@@ -1,10 +1,3 @@
-- repo: homebrew
-  srcname: ord
-  visiblename: ord
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Index, block explorer, and command-line wallet
 - repo: aur
   srcname: ord
   binname: ord
@@ -35,6 +28,13 @@
   version: 0.29.1
   origversion: null
   status: outdated
+  summary: Index, block explorer, and command-line wallet
+- repo: homebrew
+  srcname: ord
+  visiblename: ord
+  version: HEAD
+  origversion: null
+  status: rolling
   summary: Index, block explorer, and command-line wallet
 - repo: nix_stable_24_11
   srcname: ord
