@@ -48,12 +48,12 @@ Total: **67,718** lines of code across **293** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 1 | 0 | 1 | 0 | 1 |
-| last60d | 2026-09-25 | 1 | 10 | 0 | 4 | 1 | 6 |
-| 90d | 2026-08-26 | 1 | 11 | 0 | 5 | 1 | 11 |
-| last180d | 2026-05-28 | 3 | 24 | 2 | 7 | 3 | 25 |
-| 360d | 2025-11-29 | 7 | 57 | 19 | 14 | 5 | 58 |
-| last720d | 2024-12-04 | 17 | 179 | 19 | 74 | 62 | 183 |
+| 30d | 2026-10-26 | 0 | 1 | 0 | 1 | 0 | 1 |
+| last60d | 2026-09-26 | 1 | 7 | 0 | 4 | 1 | 6 |
+| 90d | 2026-08-27 | 1 | 11 | 0 | 5 | 1 | 11 |
+| last180d | 2026-05-29 | 3 | 24 | 2 | 7 | 3 | 25 |
+| 360d | 2025-11-30 | 7 | 57 | 19 | 14 | 5 | 58 |
+| last720d | 2024-12-05 | 17 | 179 | 19 | 74 | 62 | 183 |
 
 ## Release assets
 
@@ -64,15 +64,6 @@ Total: **67,718** lines of code across **293** files in the top 5 languages.
 | [ord-0.29.1-x86_64-pc-windows-msvc.zip](https://github.com/ordinals/ord/releases/download/0.29.1/ord-0.29.1-x86_64-pc-windows-msvc.zip) | 9.4 MiB | `native/win/x64` |
 | [ord-0.29.1-x86_64-unknown-linux-gnu.tar.gz](https://github.com/ordinals/ord/releases/download/0.29.1/ord-0.29.1-x86_64-unknown-linux-gnu.tar.gz) | 11.2 MiB | `native/linux/x64/glibc` |
 
-## Distribution status
-
-Reported by **9** distros on [repology.org](https://repology.org/project/ord). **1** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `0.29.1` | ⚠️ outdated |
-| Nix unstable | `0.29.0` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for ord lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `ord` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -82,4 +73,4 @@ Install metadata for ord lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T10:58:06Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T09:43:01Z._
